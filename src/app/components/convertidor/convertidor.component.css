@@ -1,0 +1,10 @@
+.badge {
+    margin: 2px;
+    font-size: 150%;
+    background: red;   
+}
+
+label{
+    font-size: 200%;
+    color: rgb(51, 196, 46);
+}
